@@ -30,13 +30,20 @@ yarn-error.*
 .DS_Store
 *.pem
 
-# local env files
-.env*.local
+# local env files - NEVER COMMIT THESE
 .env
+.env.*
+.env.local
+.env.*.local
 
-# Sensitive Firebase & Google config files - DO NOT COMMIT
+# Sensitive Firebase & Google config files - NEVER COMMIT THESE
 google-services.json
 GoogleService-Info.plist
+
+# Loose image/asset files in root
+*.png
+*.jpg
+*.jpeg
 
 
 # typescript
