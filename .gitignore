@@ -34,6 +34,10 @@ yarn-error.*
 .env*.local
 .env
 
+# Sensitive Firebase & Google config files - DO NOT COMMIT
+google-services.json
+GoogleService-Info.plist
+
 
 # typescript
 *.tsbuildinfo
