@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "473521146142",
+    "project_id": "vakildesk-app-82fc7",
+    "storage_bucket": "vakildesk-app-82fc7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473521146142:android:df409c798cde5797baa10f",
+        "android_client_info": {
+          "package_name": "com.vakildesk.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473521146142-l3ej4a4ugmhhmjkd7k0gsc7grln1el3s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6SyXAKKzzPoAe3DXFa_fYKagLRlq5-So"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473521146142-l3ej4a4ugmhhmjkd7k0gsc7grln1el3s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
